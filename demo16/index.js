@@ -26,7 +26,7 @@ var Dashboard = React.createClass({
   render: function () {
     return (
       <div>
-        <p>Dashboard</p>
+        <p>Dashboards</p>
       </div>
     );
   }
@@ -36,7 +36,7 @@ var Inbox = React.createClass({
   render: function () {
     return (
       <div>
-        <p>Inbox</p>
+        <p>Inboxs</p>
       </div>
     );
   }
@@ -46,7 +46,7 @@ var Calendar = React.createClass({
   render: function () {
     return (
       <div>
-        <p>Calendar</p>
+        <p>Calendars</p>
       </div>
     );
   }

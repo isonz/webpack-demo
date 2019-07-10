@@ -13,6 +13,6 @@ module.exports = {
     // require("jquery") is external and available
     //  on the global var jQuery
     "jQuery": "window.$",
-    'data2': 'data'
+    'data2': 'data1'
   }
 };
