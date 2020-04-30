@@ -22,7 +22,7 @@
     "file-loader": "0.x",
     "history": "^1.17.0",
     "html-webpack-plugin": "2.x",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsx-loader": "~0.13.2",
     "open-browser-webpack-plugin": "0.x",
     "react": "^15.5.3",
